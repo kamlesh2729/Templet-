@@ -8,7 +8,7 @@ export default async function blogdata(req, res) {
   let alldetails = [];
   fs.readFile("data/pageinfo.json", "utf-8", (err, data) => {
     alldetails.push(JSON.parse(data))
-    console.log(alldetails)
+    // console.log(alldetails)
     res.status(200).json(alldetails)
   })
 }
