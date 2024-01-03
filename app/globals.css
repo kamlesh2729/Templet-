@@ -17,11 +17,18 @@
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  font: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.hero-container{
+  background-image: url('../public/hero-img.jpg');
+  background-position: center;
+  object-fit:contain;
+  background-repeat: no-repeat;
+  background-size:100% 100%;
 }

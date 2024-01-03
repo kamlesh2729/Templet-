@@ -1,0 +1,46 @@
+{
+    "name": "NITYANAND CHARAN DAS",
+    "title": "Learn key life lessons from the Gita: Mind control and conflict resolution",
+    "social_media": {
+    "facebook": true,
+    "twitter": true,
+    "youtube": true,
+    "instagram": true
+    },
+    "amount": 5000,
+    "fee": {
+      "currency": "INR"
+    },
+    "inclusions": {
+      "on_demand_videos": 2,
+      "live_qa_sessions": true,
+      "whatsapp_community": true
+    },
+    "about": {
+      "content1": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam. nisi ut aliquid ex ea commodi voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "content2": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicts sunt explicabo.",
+      "content3": "Temporibus autem quibusdam et but officalls debitis aut rerumbr nececcitatibus saepe eveniet ut et voluoatates repudiandae sint et sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+    },
+    "expact": {
+      "li1": "Learn to mange your relationships",
+      "li2": "Better communication",
+      "li3": "Time management",
+      "li4": "Forgiveness"
+    },
+    "topics": {
+      "p":"Temporibus autem quibusdam et but officalls debitis aut rerumbr nececcitatibus saepe eveniet ut et voluoatates repudiandae sint et sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+      "ol1": "10 written and audio sessions guiding you in decoding the language of numbers so that you can easily receive their sings and messages.",
+      "ol2": "Intuitive exercises and homework walk you through the energies and values of numbers and number sequences so you can become your own authority.",
+      "ol3": "A handy reference to numerical meanings, so you can uncover your soul's gifts, challenges, lessons, and purpose – and receive spiritual guidance along your path.",
+      "ol4": "Expert techniques for manifestation offer simple ways to use numbers to co-create with the universe."
+    },
+  "instructor": {
+    "p1": "Sed ut perspiciatis unde omnis istw natus error sit voluptatem accusantium dolorem, eaque ipsa quae ab illo inventpre veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "p2": "At vero eos et accusamus et iusto odio dignissimos voluptatum deleniti atque corrupti quos dolores et qias molestias excepturi, similique sunt in culpa qul official deserunt mollitia animl, id est laborum et dolorum fuga."
+  },
+  "testimonial": {
+    "text": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system.",
+    "name": "Name of the reviewer",
+    "designation": "Designation of the reviewer"
+  }
+}
