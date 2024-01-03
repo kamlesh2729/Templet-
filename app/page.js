@@ -20,7 +20,7 @@ export default function Home() {
 const [data, setData] = useState([])
 
   useEffect(() => {
-    fetch("https://templet-gilt.vercel.app/api/hello")
+    fetch("http://localhost:3000/api/hello")
       .then((a) => {
         return a.json();
       })
